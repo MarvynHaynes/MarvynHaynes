@@ -1,7 +1,14 @@
-# 💫 About Me:
-Lead Developer, Server Admin, Technical Support & Trainer of all things I.T. I tend to dabble in many different areas to complete my projects. 
+![Header](./assets/github-header-image.png)
 
-🔭 I’m currently working on the development of 3 discord server community websites. <br>👯 I’m looking to collaborate on blogging and content creation with artists, developers, writers, video & music producers. <br>🤝 I’m looking for help with Grafana alerts and emailing templates. <br>🌱 I’m currently learning Linux Rocky as my replacement for CentOS for various hosting needs. <br>💬 Ask me about a wide range of technical knowledge like PHP, JavaScript, JQuery, Linux, Windows Servers, Hyper-V, ESXi, Old HP and Dell switches, Networking cable patching, PC hardware. <br>⚡ Fun fact: I run and operate a server rack containing 2 Dell R720 servers, 2 network switches and a custom made pfsense box all connected to a UPS backup device in my house. 
+# 💫 About Me:
+I’m Marvyn, a senior full stack developer that creates custom solutions for anything I.T. related. I also tend to dabble in other areas outside of development to complete my projects, such as Linux, Virtualization, Server Administration, Networking, Server Hardware and Firewalls to name a few.  During my spare time, I like to game and fiddle with my self hosting server rack.
+
+#### Some additional templated Q & A info:
+* 💻 `I’m currently working on` the development of 3 discord server community websites.</br> 
+* 🤝 `I’m looking to collaborate on` blogging and content creation with artists, developers, writers, video & music producers.</br>
+* 🤔 `I’m looking for help with` Grafana alerts and emailing templates.</br>
+* 🧑‍🎓 `I’m currently learning` Linux Rocky as my replacement for CentOS for my various hosting needs.</br>
+* 💬❓ `Ask me about` technical questions that can have a wide range from PHP, JavaScript, JQuery, Linux, Windows Servers, Hyper-V, ESXi.  Even hardware such as old HP and Dell switches, Networking cable patching and Building PC's.</br>
 
 
 ## 🌐 Socials:

@@ -1,7 +1,7 @@
 ![Header](./assets/github-header-image.png)
 
 # 💫 About Me:
-I’m Marvyn, a senior full stack developer that creates custom solutions for anything I.T. related. I also tend to dabble in other areas outside of development to complete my projects, such as Linux, Virtualization, Server Administration, Networking, Server Hardware and Firewalls to name a few.  During my spare time, I like to game and fiddle with my self hosting server rack.
+I’m Marvyn, a senior full stack developer that creates custom solutions for anything I.T. related. I also tend to dabble in other areas outside of development to complete my projects, such as Linux, Virtualization, Server Administration, Networking, Server Hardware and Firewalls to name a few.  During my spare time, I like to game and fiddle with my server rack.
 
 #### Some additional templated Q & A info:
 * 💻 `I’m currently working on` the development of 3 discord server community websites.</br> 
